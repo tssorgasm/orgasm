@@ -1,0 +1,13 @@
+<svg width="375" height="838" viewBox="0 0 375 838" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="375" height="838" fill="url(#pattern0_2736_194)" fill-opacity="0.3"/>
+<defs>
+<pattern id="pattern0_2736_194" patternUnits="userSpaceOnUse" patternTransform="matrix(134.835 0 0 136.52 255.177 750.78)" preserveAspectRatio="none" viewBox="16.8667 55.3933 151.5 153.394" width="1" height="1">
+<g id="pattern0_2736_194_inner">
+<path d="M137.654 70.3456C137.788 70.6898 137.302 70.9255 137.115 70.6066L136.593 69.7161C135.107 67.1817 132.639 65.8095 130.646 66.4095C130.049 66.5895 129.662 65.7917 130.173 65.4339C131.878 64.2406 132.328 61.4533 131.258 58.7167L130.882 57.7553C130.747 57.411 131.233 57.1754 131.42 57.4943L131.942 58.3848C133.429 60.9191 135.896 62.2914 137.889 61.6914C138.487 61.5114 138.874 62.3091 138.362 62.6669C136.658 63.8603 136.207 66.6476 137.278 69.3841L137.654 70.3456Z" fill="white"/>
+<path d="M73.4058 73.2574L67.1234 75.7821" stroke="white" stroke-linecap="round"/>
+<path d="M66.937 120.123L64.4124 113.84" stroke="white" stroke-linecap="round"/>
+<path d="M17.3667 104.528L23.6491 102.003" stroke="white" stroke-linecap="round"/>
+<path d="M29.4527 55.8934L31.9773 62.1758" stroke="white" stroke-linecap="round"/>
+</g>
+</pattern></defs>
+</svg>
